@@ -195,27 +195,19 @@ On-chain fund management platforms.
 
 ## Applications/Tools
 
-### Wallets
-- [MetaMask](https://metamask.io) ([source code](https://github.com/MetaMask), [docs](https://docs.metamask.io/)) - Most popular Ethereum wallet, built-in swaps
-- [Rainbow](https://rainbow.me) - Mobile-friendly Ethereum wallet
-- [Rabby](https://rabby.io) ([source code](https://github.com/RabbyHub/Rabby)) - Desktop wallet with better multi-chain UX
-- [Safe](https://safe.global) ([source code](https://github.com/safe-global), [docs](https://docs.safe.global/)) - Multi-sig wallet (formerly Gnosis Safe)
-
-### Portfolio Trackers
 - [DeBank](https://debank.com) - Track positions across 1000+ protocols
-- [Zapper](https://zapper.xyz) - Portfolio tracker + easy DeFi interactions
-- [Zerion](https://zerion.io) ([source code](https://github.com/zeriontech)) - Portfolio + trading interface
-
-### Advanced DeFi Tools
 - [DeFi Saver](https://defisaver.com) - Automation for lending positions (MakerDAO, Aave, Compound)
-- [Revert Finance](https://revert.finance) - Manage Uniswap V3 liquidity
 - [Instadapp](https://instadapp.io) ([source code](https://github.com/Instadapp)) - Smart wallet for advanced DeFi interactions
-
-### Developer Infrastructure
+- [MetaMask](https://metamask.io) ([source code](https://github.com/MetaMask), [docs](https://docs.metamask.io/)) - Most popular Ethereum wallet, built-in swaps
+- [QuantumPools](https://quantumpools.io) - Multi-chain concentrated-liquidity LP bookkeeping & Cover Value (fees vs IL vs original deposit) across EVM + Solana.
+- [Rabby](https://rabby.io) ([source code](https://github.com/RabbyHub/Rabby)) - Desktop wallet with better multi-chain UX
+- [Rainbow](https://rainbow.me) - Mobile-friendly Ethereum wallet
+- [Revert Finance](https://revert.finance) - Manage Uniswap V3 liquidity
+- [Safe](https://safe.global) ([source code](https://github.com/safe-global), [docs](https://docs.safe.global/)) - Multi-sig wallet (formerly Gnosis Safe)
 - [The Graph](https://thegraph.com) ([source code](https://github.com/graphprotocol), [docs](https://thegraph.com/docs/)) - Index and query blockchain data
 - [WalletConnect](https://walletconnect.com) ([source code](https://github.com/WalletConnect), [docs](https://docs.walletconnect.com/)) - Connect wallets to dapps
-
-<a name="analytics" />
+- [Zapper](https://zapper.xyz) - Portfolio tracker + easy DeFi interactions
+- [Zerion](https://zerion.io) ([source code](https://github.com/zeriontech)) - Portfolio + trading interface
 
 ## Analytics
 
